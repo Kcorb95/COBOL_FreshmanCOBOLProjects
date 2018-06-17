@@ -1,0 +1,18 @@
+
+
+
+
+
+
+                    REGISTRATION REPORT  12/11/2013 PAGE 01                     
+
+  VEHICLE CLASS  NAME                   WEIGHT     FEE                          
+       AA       JOHN GOOD                02300       $345.00                    
+       OO       BETTY GOOD               01000       $500.00                    
+       NN       MIKE GOOD                03000       $990.00                    
+       II       TERESA GOOD              02005        $20.05                    
+       BB       BARBARA GOOD             03002       $690.46                    
+       II       DAVID GOOD               02005        $20.05                    
+       MM       BILL GOOD                04006      $1802.70                    
+       OO       LISA GOOD                02500      $1250.00                    
+       NN       JOYCE GOOD               02800       $924.00                    

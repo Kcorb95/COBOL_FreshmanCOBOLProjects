@@ -1,0 +1,64 @@
+
+
+                        -Model Report-                              
+DATE: 10/29/2013                                           Pg 01    
+
+
+ NAME                    SEX   WEIGHT   HEIGHT   EYES   HAIR        
+
+ANTHONY JONES             M      189      69     BROWN   BROWN      
+
+RUSSELL LYNCH             M      199      73     BLUE    BROWN      
+
+BARBARA MEADOWS           F      110      66     BROWN   BROWN      
+
+STEPHEN MANSFIELD         M      185      72     BROWN   BROWN      
+
+LEONARD MARTIN            M      185      73     BLUE    BLONDE     
+
+HEATHER POPODOPALIS       F      125      62     BROWN   BROWN      
+
+SOFIA MARCHESE            F      124      66     BROWN   BROWN      
+
+JAMES MARTIN              M      250      75     BLUE    BLONDE     
+
+EILEEN BROWN              F      114      63     BROWN   BROWN      
+
+PETER MCGRAW              M      197      75     BLUE    BLONDE     
+
+TOM GOOD                  M      200      73     BLUE    BLONDE     
+
+MARY GREEN                F      115      63     BROWN   BROWN      
+
+JOAN AVELLO               F      118      64     BROWN   BROWN      
+
+ROGER HERSEY              M      180      73     BROWN   BLONDE     
+
+RYAN JOHNSON              M      201      72     BROWN   BLONDE     
+
+BOB HILL                  M      159      74     BLUE    BLONDE     
+
+GAIL INMAN                F      115      68     BROWN   BROWN      
+
+ROBERT MITCHELL           M      185      73     BLUE    BLONDE     
+
+MARGARET DAVIS            F      110      62     BLUE    BROWN      
+
+ELIZABETH OSBORN          F      125      64     BROWN   BROWN      
+
+MARIE AXELROD             F      126      63     OTHER   OTHER      
+
+
+
+
+          TOTALS:                                                   
+
+               TOTAL MODELS: 21                                     
+
+               NUMBER OF MALE MODELS: 11                            
+
+               NUMBER OF FEMALE MODELS: 10                          
+
+               TOTAL BLONDE MODELS:  08                             
+
+               TOTAL BROWN EYED MODELS:  12                         

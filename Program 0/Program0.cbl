@@ -1,0 +1,19 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. ASSIGNMENTNUMERO0.
+       ENVIRONMENT DIVISION.
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01 NUMBA1         PIC 9(3).
+       01 NUMBA2         PIC 9(3).
+       PROCEDURE DIVISION.
+           DISPLAY "wazzaaa".
+           DISPLAY "ENTER A NUMBA".
+           ACCEPT NUMBA1.
+           DISPLAY "ENTER A NUMBA TO ADD TO " NUMBA1.
+           ACCEPT NUMBA2.
+           ADD NUMBA2 TO NUMBA1.
+           DISPLAY NUMBA1.
+           DISPLAY "ADDING RANDOM 10".
+           COMPUTE NUMBA1 = NUMBA1 + 10.
+           DISPLAY NUMBA1.
+           STOP RUN.

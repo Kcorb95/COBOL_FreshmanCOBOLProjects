@@ -1,0 +1,71 @@
+
+
+
+
+
+
+                        -EMPLOYEE REPORT-                             
+DATE: 11/13/2013                                           Pg 01      
+
+          TERRITORY    ZZ   NOT NUMERIC                               
+
+          AREA         ZZ   NOT NUMERIC                               
+
+          DEPARTMENT   ZZ   NOT NUMERIC                               
+
+          TERRITORY    YY   NOT NUMERIC                               
+
+          AREA         YY   NOT NUMERIC                               
+
+          DEPARTMENT   YY   NOT NUMERIC                               
+
+          AREA         GG   NOT NUMERIC                               
+
+          DEPARTMENT   GG   NOT NUMERIC                               
+
+          TERRITORY    04   OUT OF BOUNDS                             
+
+          DEPARTMENT   ZZ   NOT NUMERIC                               
+
+          AREA         GH   NOT NUMERIC                               
+
+          DEPARTMENT   16   OUT OF BOUNDS                             
+
+          DEPARTMENT   11   OUT OF BOUNDS                             
+
+          DEPARTMENT   12   OUT OF BOUNDS                             
+
+          AREA         SS   NOT NUMERIC                               
+
+          DEPARTMENT   12   OUT OF BOUNDS                             
+
+          DEPARTMENT   17   OUT OF BOUNDS                             
+
+          AREA         06   OUT OF BOUNDS                             
+
+          TERRITORY    09   OUT OF BOUNDS                             
+
+          AREA         09   OUT OF BOUNDS                             
+
+          AREA         99   OUT OF BOUNDS                             
+
+          DEPARTMENT   89   OUT OF BOUNDS                             
+
+          DEPARTMENT   BB   NOT NUMERIC                               
+
+          TERRITORY    07   OUT OF BOUNDS                             
+
+          DEPARTMENT   0Z   NOT NUMERIC                               
+
+          DEPARTMENT   16   OUT OF BOUNDS                             
+
+          AREA         07   OUT OF BOUNDS                             
+
+          AREA         13   OUT OF BOUNDS                             
+
+          DEPARTMENT   19   OUT OF BOUNDS                             
+
+
+               TOTAL RECORDS:87                                       
+               TOTAL CORRECT FEILDS: 232                              
+               TOTAL BROKEN FEILDS: 29                                
